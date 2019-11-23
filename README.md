@@ -1,6 +1,6 @@
 Install Packages:
 
-    npm onstall
+    npm install
 
 Run the test:
 
