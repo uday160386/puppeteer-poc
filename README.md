@@ -17,7 +17,7 @@ Run as Jest test:
 My Opinion:
 
     Benefits of this library?
-        This is a simple and easy to use library, for those applciation`s which runs on chrome browser.
+        This is a simple and easy to use library, for those applciation`s which runs on desktop/mobile chrome browser.
         It is flexible to integrate with the jest/mocha framework.
         This framework helps to run the test scripts in headless mode, which are quite fast with test execution.
 
