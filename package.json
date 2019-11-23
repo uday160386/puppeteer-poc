@@ -1,14 +1,17 @@
 {
   "name": "puppeteerpoc",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://github.com/uday160386/puppeteer-poc.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "",
+  "author": "uday160386",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
