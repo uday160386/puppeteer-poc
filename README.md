@@ -16,6 +16,7 @@ Benefits:
     Support`s Firefox (still in experimental stage).
     Flexible to integrate with the jest/mocha framework.
     Can run the test scripts in headless mode, which are quite fast.
+    and many...
 
 Puppeteer Documentation:
 
